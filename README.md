@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 统计信息（liu-zhou-L）
+
+[![My GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liu-zhou-L&theme=github)](https://github.com/liu-zhou-L)
+[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liu-zhou-L&theme=github)](https://github.com/liu-zhou-L)
